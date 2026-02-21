@@ -1,0 +1,69 @@
+2026/02/09-17:39:16.075 3d2c Reusing MANIFEST C:\Users\PC\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/09-17:39:16.081 3d2c Recovering log #455
+2026/02/09-17:39:16.083 3d2c Reusing old log C:\Users\PC\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb/000455.log 
+2026/02/09-17:45:01.876 3d38 Level-0 table #459: started
+2026/02/09-17:45:01.880 3d38 Level-0 table #459: 29599 bytes OK
+2026/02/09-17:45:01.882 3d38 Delete type=0 #455
+2026/02/09-17:45:01.882 3d38 Compacting 4@0 + 3@1 files
+2026/02/09-17:45:01.911 3d38 Generated table #460@0: 103 keys, 2497007 bytes
+2026/02/09-17:45:01.936 3d38 Generated table #461@0: 1 keys, 2534968 bytes
+2026/02/09-17:45:01.949 3d38 Generated table #462@0: 622 keys, 1871446 bytes
+2026/02/09-17:45:01.949 3d38 Compacted 4@0 + 3@1 files => 6903421 bytes
+2026/02/09-17:45:01.950 3d38 compacted to: files[ 0 3 1 0 0 0 0 ]
+2026/02/09-17:45:01.950 3d38 Delete type=2 #448
+2026/02/09-17:45:01.951 3d38 Delete type=2 #449
+2026/02/09-17:45:01.951 3d38 Delete type=2 #450
+2026/02/09-17:45:01.951 3d38 Delete type=2 #452
+2026/02/09-17:45:01.951 3d38 Delete type=2 #454
+2026/02/09-17:45:01.951 3d38 Delete type=2 #456
+2026/02/09-17:45:01.951 3d38 Delete type=2 #459
+2026/02/09-17:46:01.877 3d38 Level-0 table #464: started
+2026/02/09-17:46:01.881 3d38 Level-0 table #464: 34820 bytes OK
+2026/02/09-17:46:01.883 3d38 Delete type=0 #458
+2026/02/09-17:47:01.887 3d38 Level-0 table #466: started
+2026/02/09-17:47:01.891 3d38 Level-0 table #466: 50281 bytes OK
+2026/02/09-17:47:01.892 3d38 Delete type=0 #463
+2026/02/09-17:48:01.882 3d38 Level-0 table #468: started
+2026/02/09-17:48:01.886 3d38 Level-0 table #468: 61001 bytes OK
+2026/02/09-17:48:01.888 3d38 Delete type=0 #465
+2026/02/09-17:49:01.887 3d38 Level-0 table #470: started
+2026/02/09-17:49:01.892 3d38 Level-0 table #470: 68872 bytes OK
+2026/02/09-17:49:01.894 3d38 Delete type=0 #467
+2026/02/09-17:49:01.894 3d38 Compacting 4@0 + 3@1 files
+2026/02/09-17:49:01.910 3d38 Generated table #471@0: 103 keys, 2497008 bytes
+2026/02/09-17:49:01.935 3d38 Generated table #472@0: 1 keys, 2534968 bytes
+2026/02/09-17:49:01.947 3d38 Generated table #473@0: 622 keys, 1921926 bytes
+2026/02/09-17:49:01.947 3d38 Compacted 4@0 + 3@1 files => 6953902 bytes
+2026/02/09-17:49:01.948 3d38 compacted to: files[ 0 3 1 0 0 0 0 ]
+2026/02/09-17:49:01.949 3d38 Delete type=2 #460
+2026/02/09-17:49:01.949 3d38 Delete type=2 #461
+2026/02/09-17:49:01.949 3d38 Delete type=2 #462
+2026/02/09-17:49:01.949 3d38 Delete type=2 #464
+2026/02/09-17:49:01.949 3d38 Delete type=2 #466
+2026/02/09-17:49:01.949 3d38 Delete type=2 #468
+2026/02/09-17:49:01.949 3d38 Delete type=2 #470
+2026/02/09-17:50:01.878 3d38 Level-0 table #475: started
+2026/02/09-17:50:01.882 3d38 Level-0 table #475: 74091 bytes OK
+2026/02/09-17:50:01.883 3d38 Delete type=0 #469
+2026/02/09-17:51:01.878 3d38 Level-0 table #477: started
+2026/02/09-17:51:01.883 3d38 Level-0 table #477: 74197 bytes OK
+2026/02/09-17:51:01.885 3d38 Delete type=0 #474
+2026/02/09-18:48:55.835 3d38 Level-0 table #479: started
+2026/02/09-18:48:55.839 3d38 Level-0 table #479: 42159 bytes OK
+2026/02/09-18:48:55.841 3d38 Delete type=0 #476
+2026/02/09-18:49:00.956 3d38 Level-0 table #481: started
+2026/02/09-18:49:00.981 3d38 Level-0 table #481: 2651764 bytes OK
+2026/02/09-18:49:00.982 3d38 Delete type=0 #478
+2026/02/09-18:49:00.983 3d38 Compacting 4@0 + 3@1 files
+2026/02/09-18:49:01.005 3d38 Generated table #482@0: 103 keys, 2484562 bytes
+2026/02/09-18:49:01.032 3d38 Generated table #483@0: 1 keys, 2666975 bytes
+2026/02/09-18:49:01.045 3d38 Generated table #484@0: 623 keys, 1937245 bytes
+2026/02/09-18:49:01.045 3d38 Compacted 4@0 + 3@1 files => 7088782 bytes
+2026/02/09-18:49:01.045 3d38 compacted to: files[ 0 3 1 0 0 0 0 ]
+2026/02/09-18:49:01.046 3d38 Delete type=2 #471
+2026/02/09-18:49:01.046 3d38 Delete type=2 #472
+2026/02/09-18:49:01.046 3d38 Delete type=2 #473
+2026/02/09-18:49:01.046 3d38 Delete type=2 #475
+2026/02/09-18:49:01.046 3d38 Delete type=2 #477
+2026/02/09-18:49:01.046 3d38 Delete type=2 #479
+2026/02/09-18:49:01.046 3d38 Delete type=2 #481
